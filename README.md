@@ -1,2 +1,2 @@
 # prog4
-lab session
+lab session demonstrating the program
